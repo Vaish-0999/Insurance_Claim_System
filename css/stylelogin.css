@@ -1,0 +1,28 @@
+/* Style login style */
+form{
+	border: 2px solid #f1f1f1;
+}
+button:hover {
+    opacity: 0.8;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+img.avatar {
+    width: 30%;
+	height: 30%;
+    border-radius: 50%;
+	box-shadow: 0px 0px 5px #fff;
+}
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+}

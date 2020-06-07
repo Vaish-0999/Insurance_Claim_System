@@ -1,0 +1,167 @@
+#main-wrapper{
+   width:800px;
+	background:white;
+	margin-left: auto;
+	margin-right:auto;
+	padding:5px;
+	border-radius:10px;	
+}
+#main-reg-wrapper{
+    margin-top:30px;
+	margin-left:420px;
+	width:500px;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	
+}
+
+h2 {
+	color: #AAAAAA;
+}
+
+.role_title{
+	margin-bottom:5px;
+	color: #AAAAAA;
+}
+.i_avatar{
+	width:150px;
+	text-align:center;
+	border-radius:40%;
+}
+.avatar{
+	width:100px;
+	text-align:center;
+	border-radius:50%;
+}
+
+.myform{
+	width:450px;
+	margin: 0 auto;
+}
+.p_myform{
+	width:0 auto;
+	margin: 0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin-top:12px;
+	margin-bottom:12px;
+	padding:8px;
+}
+.p_inputvalues{
+	width:300px;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-right:20px;
+	padding:8px;
+}
+.p1_inputvalues{
+	width:170px;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:20px;
+	padding:8px;
+}
+.radiovalues{
+	margin-top:30px;
+	}
+#login_btn{
+	background-color:#34495e;
+	margin-top:10px;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:normal;
+	border-radius:2px;
+	border:none;
+}
+#vehiclereg_btn{
+	background-color:#34495e;
+	color:white;
+	width:28%;
+	text-align:center;
+	font-size:22px;
+	font-weight:bold;
+	border-radius:8px;
+}
+#register_btn{
+	margin-bottom:25px;
+	background-color:#34495e;
+	margin-top:10px;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:normal;
+	border-radius:2px;
+	border:none;
+	
+}
+
+#next_btn{
+	background-color:#192a56;
+	margin-top:20px;
+	padding:8px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:10px;
+	
+}
+#enter{
+	background-color:#192a56;
+	margin-top:20px;
+	padding:8px;
+	color:white;
+	width:10%;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	border-radius:8px;
+	
+}
+#p_regi_btn{
+	background-color:#192a56;
+	margin-top:20px;
+	padding:8px;
+	color:white;
+	width:20%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:10px;
+	margin-left:500px;
+	
+}
+#i_regi_btn{
+	background-color:#192a56;
+	margin-top:20px;
+	padding:8px;
+	color:white;
+	width:20%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:10px;
+	margin-left:500px;
+	
+}
+
+
+
+#Text1{
+text-align:center;
+height:100%;
+font-size:18px;
+}
+.auto-style4{
+text-align:center;
+height:15%;
+
+}

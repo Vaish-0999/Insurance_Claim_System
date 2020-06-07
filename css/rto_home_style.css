@@ -1,0 +1,19 @@
+
+.container{
+	position:relative;
+}
+.bottomright{
+	position:absolute;
+	bottom: 8px;
+	right: 16px;
+	font-size:25px;
+}
+img{
+	width:100%;
+	height: auto;
+	opacity: 0.3;
+}
+.contentrto{
+	padding-top: 80%;
+	padding-left:20%;
+}

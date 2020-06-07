@@ -1,0 +1,101 @@
+/*main style page*/
+.jumbotron{
+	font-family:Montserrat, sans-serif;
+	
+	color:#ffffff;
+	padding: 150px 25px;
+}
+.container-fluid{
+	padding: 60px 50px;
+	
+}
+.logo{
+	color: #34495e;
+	font-size: 200px;
+}
+@media screen and(max-width:768px){
+	.col-sm-4{
+		text-align:center;
+		margin: 25px 0;
+		border: none;
+		background-color: #ced6e0;
+	}
+}
+.logo-small{
+	color:#34495e;
+	font-size: 50px;
+}
+thumbnail{
+	padding: 0 0 15px 0;
+	border: none;
+	border-radius: 0;
+
+}
+.img-thumbnail{
+	border: 10px solid transparent;
+    margin-bottom:10px;
+    width: 80%;
+    height: 80%;
+    
+}
+.img-thumbnail:hover{
+	border-color:#f1f1f1;
+}
+.navbar{
+	font-family:Montserrat, sans-serif;
+	margin-bottom: 0;
+	background-color:#130f40;
+	z-index: 9999;
+	border: 0;
+	font-size:16px;
+	line-height: 2;
+	letter-spacing: 1.5px;
+	border-radius: 0;
+}
+.navbar li a, .navbar .navbar-brand{
+	color:#f5f6fa
+}
+.navbar-nav li a:hover, .navbar-nav li.active a{
+	color: #c7ecee;
+	background-color:#fff;
+}
+.navbar-default .navbar-toggle{
+	border-color: transparent;
+	color: #fff;
+}
+.bg-grey{
+	background-color:#ced6e0;
+}
+.bg_login{
+	background-color:#2980b9;
+}
+.bg-footer{
+	background-color:#130f40;
+}
+footer .glyphicon{
+	font-size:20px;
+	margin-bottom: 20px;
+	color:#ced6e0;
+}
+body{
+	font: 400 15px Lato, sans-serif;
+	line-height:1.8;
+	color:#2f3542;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+

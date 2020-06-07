@@ -1,0 +1,46 @@
+#vehiclereg_btn{
+	background-color:#34495e;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+	border-radius:5px;
+	align:center;
+}
+#logout{
+
+  transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);}
+body{
+	margin: 0;
+	padding:0;
+}
+
+div.content{
+	position:absolute;
+	padding:0;
+	margin-top:-6px;
+	height:100px;	
+	
+}
+h1 {
+	font-family:Montserrat, sans-serif;
+    font-weight: 400;
+    height: 100px;
+	width:100%;
+	letter-spacing: 1px;
+	background:#130f40;
+	color:white;
+	line-height: 2.5;
+	margin-top: 0px;
+}
+div.getclass
+{
+	position:relative;
+	margin-left: 40%; 
+	margin-top:60%;
+	padding: 0px 16px; 
+	height:100px;
+}
+
